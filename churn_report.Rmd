@@ -1,7 +1,7 @@
 ---
-title: "Customer Churn Prediction - Choose Your Own Capstone Project"
+title: "Customer Churn Prediction Report"
 subtitle: "HarvardX PH125.9x - Data Science: Capstone"
-author: "Your Name"
+author: "Eman Ahmad"
 date: "`r format(Sys.Date(), '%B %d, %Y')`"
 output:
   pdf_document:
@@ -391,6 +391,8 @@ of the customers who are about to leave.
 
 - Dataset: Customer churn business dataset (CSV, 10,000 rows), included
   with this submission / hosted on GitHub.
+  Github:
+  https://github.com/emanahmad95/data_science_capstone/blob/main/customer_churn_business_dataset.csv
 - Irizarry, R. A. (2019). *Introduction to Data Science: Data Analysis and
   Prediction Algorithms with R*.
 - Kuhn, M. (2008). Building Predictive Models in R Using the caret
